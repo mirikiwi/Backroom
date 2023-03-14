@@ -3679,7 +3679,7 @@ GameObject:
   - component: {fileID: 1953777346}
   - component: {fileID: 1953777345}
   m_Layer: 0
-  m_Name: PUERTA (1)
+  m_Name: PUERTA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
